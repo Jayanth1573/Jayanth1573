@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SwiftUI based applications**
 
-- 🌱 I’m currently learning **Swift programming,DSAs**
+- 🌱 I’m currently learning **Swift programming,DSA**
 
 - 💬 Ask me about **UIKit, SwiftUI, Coredata, Firebase, MVC, MVVM design patterns**
 
